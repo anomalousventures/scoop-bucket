@@ -1,0 +1,24 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/anomalousventures/tracks/releases/download/v0.1.0/tracks_0.1.0_Windows_x86_64.zip",
+            "bin": [
+                "tracks-mcp.exe",
+                "tracks.exe"
+            ],
+            "hash": "cbfacbe8f23bb47a5198300feb9ebb227cfe3bdc8ab57663437d67ecf0a5340a"
+        },
+        "arm64": {
+            "url": "https://github.com/anomalousventures/tracks/releases/download/v0.1.0/tracks_0.1.0_Windows_arm64.zip",
+            "bin": [
+                "tracks-mcp.exe",
+                "tracks.exe"
+            ],
+            "hash": "3dd0a8f54c276d9695c57e3518099fd242e05d318beded3dbf3a78a41bd730ad"
+        }
+    },
+    "homepage": "https://tracks.anomalousventures.com",
+    "license": "MIT",
+    "description": "A batteries included toolkit for hypermedia servers"
+}
