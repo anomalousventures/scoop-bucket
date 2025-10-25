@@ -7,7 +7,7 @@
                 "tracks-mcp.exe",
                 "tracks.exe"
             ],
-            "hash": "cbfacbe8f23bb47a5198300feb9ebb227cfe3bdc8ab57663437d67ecf0a5340a"
+            "hash": "6850f878952a5216c5305d7898a32ec4ae7bda73f298605c7b3f09e0affffcfe"
         },
         "arm64": {
             "url": "https://github.com/anomalousventures/tracks/releases/download/v0.1.0/tracks_0.1.0_Windows_arm64.zip",
@@ -15,7 +15,7 @@
                 "tracks-mcp.exe",
                 "tracks.exe"
             ],
-            "hash": "3dd0a8f54c276d9695c57e3518099fd242e05d318beded3dbf3a78a41bd730ad"
+            "hash": "eadfbeb68b69eaadbe6b34000378b53a78269da4ef937a8d850aac92a0f74b88"
         }
     },
     "homepage": "https://tracks.anomalousventures.com",
