@@ -1,21 +1,21 @@
 {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/anomalousventures/tracks/releases/download/v0.2.0/tracks_0.2.0_Windows_x86_64.zip",
+            "url": "https://github.com/anomalousventures/tracks/releases/download/v0.3.0/tracks_0.3.0_Windows_x86_64.zip",
             "bin": [
                 "tracks-mcp.exe",
                 "tracks.exe"
             ],
-            "hash": "d3c09e18eb7b30483d8e3fb73230a6f000df9c4f13dab99ebdf82f9a596ccab6"
+            "hash": "bdf17a63c26cabf2e650ab7bc8fbedf9a3504400110877033f95b4d9889defc1"
         },
         "arm64": {
-            "url": "https://github.com/anomalousventures/tracks/releases/download/v0.2.0/tracks_0.2.0_Windows_arm64.zip",
+            "url": "https://github.com/anomalousventures/tracks/releases/download/v0.3.0/tracks_0.3.0_Windows_arm64.zip",
             "bin": [
                 "tracks-mcp.exe",
                 "tracks.exe"
             ],
-            "hash": "1f9ad99242727583be2a23ce3f9bc1a796baab7f473e31e22f73b6c18e61bf2c"
+            "hash": "a882922bafc20b45a42293384c0ab057716e872f8ee0fea7ee41cef26bccf9d1"
         }
     },
     "homepage": "https://tracks.anomalousventures.com",
